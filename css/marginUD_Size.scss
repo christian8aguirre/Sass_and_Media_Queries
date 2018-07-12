@@ -1,0 +1,4 @@
+@mixin marginUD_Size($margin, $size){
+    margin: $margin 0;
+    font-size: $size;
+}

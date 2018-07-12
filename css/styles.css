@@ -50,7 +50,7 @@
           width: 10px;
           height: 10px;
           border-radius: 100%;
-          background: red; }
+          background-color: red; }
     .container__sub .row3 {
       display: flex;
       align-items: center;
